@@ -10,10 +10,3 @@ This is my journal of the design and building process of **Smart Chess Board**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/479).
 
 
-## 10/16/2025 - Created the schematic  
-
-I started by installing KiCad and creating the schematic for the PCB. By following the guide, I added buttons according to my own layout, along with diodes for each one and a microcontroller. I had some trouble with the pieces library, but I figured it out.
-
-![image_2025-10-16_220941248.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d9266ba595e537bcaa255b5db55223c09b82f7ce/image_2025-10-16_220941248.png)
-  
-
