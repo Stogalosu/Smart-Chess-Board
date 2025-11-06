@@ -6,7 +6,19 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Smart Chess Board**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/479).
+## 11/6/2025 - Made the first version of the board design  
 
+4.11.25
+I spent about 45 minutes researching possible parts for the project, including stepper motors, electromagnets and main boards. I was initially thinking about using an Arduino board, but I realized that the GUI app that I want to build is very complicated to write in C, so I switched to a Raspberry Pi.
+
+5.11.25
+I designed the top of the board in Fusion 360. It was to big to 3d print (on my own printer) in one piece, so I had to break it up into 4 smaller ones. I made a cross-shaped beam with holes to hold them together. That was also too big, so it had to be spit up as well. I chose to connect it all in the middle, but I have some concerns with it being too thin. I hope it will hold up.
+
+Here is the bottom side of the board, without the beam. The top side looks like any other chess board.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--9e1571e2d0618dfcfb63045cadbc0414aa8a972e/image.png)
+
+This is the beam.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a9fdc58782933ef15c53242d76fbdc0c32b2f4e8/image.png)
+
+  
 
