@@ -1,19 +1,19 @@
 Name;Price/unit;Amount;Shipping;Product Cost;Notes;Link
-X-axis guiderail;$8,83;1;$0,00;$8,83;MGN9H, 350mm;https://www.aliexpress.com/item/1005002516956172.html
-Y-axis Steel Rod;$5,88;2;$0,96;$12,72;6mm, 350mm;https://www.aliexpress.com/item/1005006293171727.html
+X-axis guiderail;$13,37;1;$0,00;$13,37;MGN9H, 350mm;https://www.aliexpress.com/item/1005002516956172.html
+Y-axis Steel Rod;$2,21;2;$1,12;$5,54;6mm, 350mm;https://www.aliexpress.com/item/1005007648646117.html
 Y-axis Linear Bearing;$1,26;2;$0,00;$2,52;LM6UU;https://www.optimusdigital.ro/ro/mecanica-rulmenti/3812-rulment-liniar-lm6uu.html
 Stepper Motor;$3,88;2;$0,00;$7,76;;https://www.optimusdigital.ro/ro/motoare-motoare-pas-cu-pas/101-driver-uln2003-motor-pas-cu-pas-de-5-v-.html
 Servomotor;$3,20;1;$0,00;$3,20;;https://www.optimusdigital.ro/ro/motoare-servomotoare/26-micro-servomotor-sg90.html
 Neodymium Magnet 6x3mm;$2,26;1;$0,00;$2,26;;https://www.emag.ro/magnet-neodim-disc-6mm-x-3mm-00004824/pd/DZW0Y6BBM/
-Neodymium Magnet 10x3mm;$11,32;1;$5,62;$16,94;100pcs;https://www.aliexpress.com/item/1005010051950544.html
+Neodymium Magnet 10x3mm;$6,97;2;$6,48;$20,42;100pcs;https://www.aliexpress.com/item/1005010439392352.html
 GT2 Belt;$2,31;1;$1,82;$4,13;;https://www.robofun.ro/3d-printer-cnc/curea-gt2-la-metru-liniar.html
 M3x6 Headless Screws;$0,08;10;$0,00;$0,77;;https://www.optimusdigital.ro/ro/mecanica-suruburi-si-piulite/5785-m3x6-mm-urub-de-fixare-cu-cap-plat.html
 M3x6 Screws;$0,02;100;$6,00;$8,00;Minimum quantity;https://www.tme.eu/ro/details/m3x6_d912-a2/suruburi-cu-piulita/kraftberg/
 M3x10 Screws;$0,03;100;$0,00;$3,20;Minimum quantity;https://www.tme.eu/ro/details/b3x10_bn3/suruburi-cu-piulita/bossard/1003771/
 Steel Pins 2.5x10mm;$4,60;1;$0,00;$4,60;50pcs;https://www.aliexpress.com/item/1005003326358562.html
 Steel Pins 4x30mm;$5,04;1;$0,00;$5,04;20pcs;https://www.aliexpress.com/item/1005003326358562.html
-GT2 Timing Pulleys 5pcs;$3,25;1;$2,99;$6,24;20T W6 B5;https://www.aliexpress.com/item/1005001933418605.html
-GT2 Idler Timing Pulleys 12pcs;$14,86;1;$2,99;$17,85;20T W6 B4;https://www.aliexpress.com/item/1005007557291905.html
+GT2 Timing Pulleys 5pcs;$5,53;1;$2,99;$8,52;20T W6 B5;https://www.aliexpress.com/item/1005001933418605.html
+GT2 Idler Timing Pulleys 12pcs;$9,28;2;$2,99;$21,55;20T W6 B4;https://www.aliexpress.com/item/1005007557987612.html
 Hall Sensors;$0,41;65;$0,00;$26,65;;https://www.tme.eu/ro/details/ss30at/senzori-hall/honeywell/
 I2C I/O expander;$1,66;1;$0,00;$1,66;;https://www.tme.eu/ro/en/details/tca9555pwr/interfaces-others-integrated-circuits/texas-instruments/
 I2C Driver;$1,69;1;$0,00;$1,69;;https://www.tme.eu/ro/en/details/tbd62083afwg/drivers-integrated-circuits/toshiba/
@@ -29,7 +29,7 @@ Capacitors;$0,17;3;$0,00;$0,51;;https://www.tme.eu/ro/details/cl31b104kbcnnnd/co
 4 pin Connector Female;$0,08;10;$0,00;$0,78;Minimum quantity;https://www.tme.eu/ro/details/zl262-4sg/pini-cu-benzi-si-soclu/connfly/ds1023-1-4s21/
 3 pin Connector Male;$0,17;1;$0,00;$0,17;;https://www.tme.eu/ro/details/tsw-103-07-l-s/pini-cu-benzi-si-soclu/samtec/
 PCBs;$29,40;1;$22,59;$51,99;;
-Total Cost;;;$42,97;$198,96;;
+Total Cost;;;$43,99;$205,78;;
 ;;;;;;
 ;;;;;;
 ;;;;;;
