@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ce93625f-0213-47b0-aae5-63bebd901762")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 120.65 133.35)
+		(size 35.56 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9f16522-c0e0-44eb-9eac-2d6c7162c282")
+		(property "Sheetname" "Matrice 4x4 cu controller"
+			(at 120.65 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "matrice_4x4_controller.kicad_sch"
+			(at 120.65 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SCB"
+				(path "/ce93625f-0213-47b0-aae5-63bebd901762"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 133.35)
+		(size 33.02 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d946f6a9-81c4-45f5-b667-5226b6b28f47")
+		(property "Sheetname" "Matrice 4x4"
+			(at 72.39 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "matrice_4x4.kicad_sch"
+			(at 72.39 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SCB"
+				(path "/ce93625f-0213-47b0-aae5-63bebd901762"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 133.35)
+		(size 34.29 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f933028c-c417-424f-84e5-f293decaa70f")
+		(property "Sheetname" "Raspberry"
+			(at 179.07 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "raspberry.kicad_sch"
+			(at 179.07 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SCB"
+				(path "/ce93625f-0213-47b0-aae5-63bebd901762"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
