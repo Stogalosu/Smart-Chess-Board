@@ -9,6 +9,9 @@ Because I had this idea in the back if my head for a long time and I thought thi
 ## How do I use it?
 Well, I haven't thought it through, but my idea is to also make an Android app that connects through Bluetooth with the board so you can visualise the moves there, as well as make new ones. I also hope to allow players to make their own moves on the board using the Hall sensors that are in the board.
 
+Build:
+<img width="4000" height="3000" alt="20260628_163842" src="https://github.com/user-attachments/assets/286d67f1-94c5-4f49-8921-d99f7768fe6a" />
+
 3D Render:
 <img width="1517" height="844" alt="image" src="https://github.com/user-attachments/assets/766c2a24-4032-4103-a096-84ca58b42512" />
 
