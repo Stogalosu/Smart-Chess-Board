@@ -9,6 +9,10 @@ Because I had this idea in the back if my head for a long time and I thought thi
 ## How do I use it?
 Well, I haven't thought it through, but my idea is to also make an Android app that connects through Bluetooth with the board so you can visualise the moves there, as well as make new ones. I also hope to allow players to make their own moves on the board using the Hall sensors that are in the board.
 
+## Disclosure
+This project has already been submitted to Blueprint a few months ago. In the meantime, I've made some small additions and adjustments that I've recorded using Lapse.
+
+## Images
 Build:
 <img width="4000" height="3000" alt="20260628_163842" src="https://github.com/user-attachments/assets/286d67f1-94c5-4f49-8921-d99f7768fe6a" />
 
@@ -28,7 +32,7 @@ Wiring diagrams for the special PCB:
 Wiring diagram for tileable PCB:
 <img width="1530" height="879" alt="image" src="https://github.com/user-attachments/assets/7aafd1c9-bf85-40a9-8a66-b27abafc629a" />
 
-Bom table:
+## BOM table
 |Name                          |Price/unit|Amount|Shipping|Product Cost|Notes           |Link                                                                                                        |
 |------------------------------|----------|------|--------|------------|----------------|------------------------------------------------------------------------------------------------------------|
 |X-axis guiderail              |$13,37    |1     |$0,00   |$13,37      |MGN9H, 350mm    |https://www.aliexpress.com/item/1005002516956172.html                                                       |
