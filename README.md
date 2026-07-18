@@ -10,7 +10,29 @@ Because I had this idea in the back if my head for a long time and I thought thi
 Well, I haven't thought it through, but my idea is to also make an Android app that connects through Bluetooth with the board so you can visualise the moves there, as well as make new ones. I also hope to allow players to make their own moves on the board using the Hall sensors that are in the board.
 
 ## Disclosure
-This project has already been submitted to Blueprint a few months ago. In the meantime, I've made some small additions and adjustments that I've recorded using Lapse.
+This project has already been submitted to Blueprint a few months ago. In the meantime, I've made some small additions and adjustments that I've recorded using Lapse. These include:
+- Adding pin holes on the x-axis idlers for the pulleys and then increasing their tolerances.
+- Modifying X-carriage to avoid interference of belts with other moving pieces.
+- Adding snap fit to every chess piece.
+- Adding fillets to board edges.
+- Reworking screw holes on the sides of the board.
+- Strengthening the bottom of the board.
+- Adjusting eject mechanism angle.
+- Adjusting position of holes for Raspberry Pi.
+- Adding holes in the bottom of the board for belt tensioning screws.
+- Adding spaces for pin solders on the back of the PCB.
+- Widening nut spaces in all pieces.
+- Fixing nut holes for the motor holes; the nut was too close to the motor.
+- Fixing small problems before shipping.
+
+## Assembly
+Print all pieces. Make sure to follow the color scheme of a real chess board and keep track of which piece is which, as some of the screw holes won't align if their positions are wrong. Slide together the 4 pieces that make up the bottom of the board while inserting the y-axis rods, the x-axis idlers and the x-axis guiderail. Screw in the motor holders and the motors. Cut your belt into 2 pieces. Slide them into the x-axis carriage and fit the belts on the pulleys as described in the following image. Screw in the x-axis carriage. Attach the servomotor.
+
+<img width="363" height="300" alt="image" src="https://github.com/user-attachments/assets/bb0e1303-b8e1-4a6e-a94b-7994265ecbde" />
+
+Solder the pieces onto the PCB and solder them together by connecting the pins. Connect the botton pieces of the play surface with the little pins. Fit the PCBs into it, then screw in each wall piece while keeping track of its position. Connect the motor cables and the Raspberry Pi.
+
+At the end, cover the bottom with the play surface and screw in all the screws. Done!
 
 ## Images
 Build:
