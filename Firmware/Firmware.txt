@@ -1,4 +1,5 @@
 # For firmware, I'm going to use Raspberry Pi OS, paired with a python script that controls the motors and logic. Here is a little sample I found on the internet of how to control the stepper motors.
+# There is no firmware... yet. I've just finished assembling the board and will start working on the firmware soon. I'm submitting only the work on the hardware itself.
 
 #!/usr/bin/python3
 import RPi.GPIO as GPIO
