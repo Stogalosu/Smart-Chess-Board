@@ -9,6 +9,9 @@ Because I had this idea in the back if my head for a long time and I thought thi
 ## How do I use it?
 Well, I haven't thought it through, but my idea is to also make an Android app that connects through Bluetooth with the board so you can visualise the moves there, as well as make new ones. I also hope to allow players to make their own moves on the board using the Hall sensors that are in the board.
 
+## Firmware
+There is no firmware... yet. I've just finished assembling the board and will start working on the firmware soon. 
+
 ## Disclosure
 This project has already been submitted to Blueprint a few months ago. In the meantime, I've made some small additions and adjustments that I've recorded using Lapse. These include:
 - Adding pin holes on the x-axis idlers for the pulleys and then increasing their tolerances.
